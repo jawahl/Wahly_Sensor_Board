@@ -14,26 +14,12 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Sensor_Audio:IM69D130 MK?
-U 1 1 6182648F
-P 2900 1850
-AR Path="/61801101/6182648F" Ref="MK?"  Part="1" 
-AR Path="/6182648F" Ref="MK?"  Part="1" 
-AR Path="/61820FD6/6182648F" Ref="MK1"  Part="1" 
-F 0 "MK1" H 2571 1896 50  0000 R CNN
-F 1 "IM69D130" H 2571 1805 50  0000 R CNN
-F 2 "Sensor_Audio:Infineon_PG-LLGA-5-1" H 3600 1550 50  0001 C CIN
-F 3 "https://www.infineon.com/dgdl/Infineon-IM69D130-DS-v01_00-EN.pdf?fileId=5546d462602a9dc801607a0e46511a2e" H 2900 1850 50  0001 C CNN
-	1    2900 1850
-	1    0    0    -1  
-$EndComp
-$Comp
 L dk_Motion-Sensors-Accelerometers:LIS3DHTR U4
 U 1 1 61899624
 P 7300 3300
 F 0 "U4" H 7800 2950 60  0000 L CNN
 F 1 "LIS3DHTR" H 7800 2850 60  0000 L CNN
-F 2 "digikey-footprints:VFLGA-16_3x3mm" H 7500 3500 60  0001 L CNN
+F 2 "Package_LGA:LGA-16_3x3mm_P0.5mm" H 7500 3500 60  0001 L CNN
 F 3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/3c/ae/50/85/d6/b1/46/fe/CD00274221.pdf/files/CD00274221.pdf/jcr:content/translations/en.CD00274221.pdf" H 7500 3600 60  0001 L CNN
 F 4 "497-10613-1-ND" H 7500 3700 60  0001 L CNN "Digi-Key_PN"
 F 5 "LIS3DHTR" H 7500 3800 60  0001 L CNN "MPN"
