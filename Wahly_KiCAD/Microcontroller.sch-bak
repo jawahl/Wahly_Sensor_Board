@@ -4,9 +4,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 4 5
-Title ""
+Title "Wahly Sensor Board - STM32"
 Date ""
-Rev ""
+Rev "0.1"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -511,7 +511,7 @@ U 1 1 6186FBD1
 P 6850 1400
 F 0 "R3" H 6909 1446 50  0000 L CNN
 F 1 "47" H 6909 1355 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" H 6850 1400 50  0001 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 6850 1400 50  0001 C CNN
 F 3 "~" H 6850 1400 50  0001 C CNN
 	1    6850 1400
 	1    0    0    -1  

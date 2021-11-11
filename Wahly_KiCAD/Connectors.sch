@@ -74,7 +74,7 @@ Wire Wire Line
 Connection ~ 3950 2700
 NoConn ~ 4250 2600
 Text GLabel 5100 2500 2    50   Input ~ 0
-SWD_DIO
+SWD_SWO
 Wire Wire Line
 	5100 2500 4750 2500
 NoConn ~ 4750 2600
